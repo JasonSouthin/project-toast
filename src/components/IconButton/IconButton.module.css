@@ -1,0 +1,8 @@
+.button {
+    flex-shrink: 0;
+    border: none;
+    background: transparent;
+    padding: 16px;
+    cursor: pointer;
+    color: inherit;
+}
